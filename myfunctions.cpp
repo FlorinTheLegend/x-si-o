@@ -25,7 +25,7 @@ void  printscreen(char (&x)[3][3])
 
 }
 
-void choosepos(int alegere,char (&turn),char (&boardpos)[3][3])
+void choosepos(int alegere,char &turn,char (&boardpos)[3][3])
 
 {
      cin>>alegere;
