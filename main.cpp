@@ -1,6 +1,5 @@
 #include <iostream>
 #include <unistd.h>
-#include "myfunctions.cpp"
 #include "myfunctions.h"
 using namespace std;
 
